@@ -1,0 +1,3 @@
+English: 'en', Spanish: 'es', German: 'de', Chinese: 'zh', Japanese: 'ja', Arabic: 'ar', Russian: 'ru', Italian: 'it', Portuguese: 'pt', Hindi: 'hi', French: 'fr', Dutch: 'nl', Swedish: 'sv', Korean: 'ko', Turkish: 'tr', Polish: 'pl', Indonesian: 'id', Greek: 'el'
+
+Hindi: 'hi', Bengali: 'bn', Telugu: 'te', Marathi: 'mr', Tamil: 'ta', Urdu: 'ur', Gujarati: 'gu', Kannada: 'kn', Odia (Oriya): 'or', Malayalam: 'ml', Punjabi: 'pa', Assamese: 'as', Maithili: 'mai', Sanskrit: 'sa', Tulu: 'tcy'
